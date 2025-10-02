@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pisoth Yi</h1>
 <h3 align="center">Founder of Polymer Suite | A self-taught software engineer from Cambodia</h3>
 
-- 🔭 I’m currently working on [Polymer Suite](https://www.polymersuite.asia/)
+- 🔭 I’m currently working on [Polymer Invoice](https://www.polymerinvoice.com/)
 
-- 🌱 I’m currently learning **NextJS,ExpressJS, MongoDB**
-
-- 📫 How to reach me **pisothyi@polymersuite.asia**
+- 📫 How to reach me **pisothyi@polymerinvoice.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pisothyi/](https://www.linkedin.com/in/pisothyi/)
 
