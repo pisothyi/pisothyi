@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pisoth Yi</h1>
-<h3 align="center">Founder of Polymer Suite | A self-taught software engineer from Cambodia</h3>
+<h3 align="center">Founder of Polymer Invoice | A self-taught software engineer from Cambodia</h3>
 
 - 🔭 I’m currently working on [Polymer Invoice](https://www.polymerinvoice.com/)
 
